@@ -1,22 +1,11 @@
 {
-  "name": "chartjs-plugin-dragdata",
+  "name": "atoze-chartjs-plugin-dragdata",
   "version": "0.2.1",
   "description": "Draggable data points for Chart.js",
   "main": "dist/chartjs-plugin-dragData.js",
   "scripts": {
     "compile": "webpack"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/chrispahm/chartjs-plugin-dragData.git"
-  },
-  "keywords": [
-    "chartjs",
-    "plugin",
-    "drag",
-    "draggable",
-    "data"
-  ],
   "author": "Christoph Pahmeyer <christoph.pahmeyer@ilr.uni-bonn.de>",
   "license": "MIT",
   "devDependencies": {
